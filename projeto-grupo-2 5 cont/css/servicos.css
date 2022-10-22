@@ -1,0 +1,69 @@
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+body {
+  background: #000000;
+}
+
+#h5{
+ 
+  color: #1737c7;
+}
+
+
+.display-4 {
+  color: #ffff;
+}
+
+p {
+  color: #ffff;
+}
+.card-header {
+  background-color: #0b1f7a;
+  color: #fff;
+}
+
+.header-footer {
+  color: #fff;
+}
+.btn-outline-primary {
+  color: #fff;
+  background-color: #0b1f7a;
+  border-color: #0b1f7a;
+}
+
+.btn-outline-primary:hover {
+  color: #fff;
+  background-color: #040c31;
+  border-color: #0b1f7a;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #0b1f7a;
+  border-color: #0b1f7a;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #040c31;
+  border-color: #0b1f7a;
+}
+
+.container {
+  max-width: 960px;
+}
+
+.pricing-header {
+  max-width: 700px;
+}
+
+.card-deck .card {
+  min-width: 220px;
+}
